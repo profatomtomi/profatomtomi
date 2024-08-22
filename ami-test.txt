@@ -4,7 +4,7 @@
 body {
   background-color: #33342D;
 }
-h1 { color: white; }
+h1 { color: blue; }
 h1 {
  text-align:center
 }
